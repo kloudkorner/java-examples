@@ -13,6 +13,7 @@
   <modules>
     <module>simple-thread-example-with-lambda</module>
     <module>simple-thread-example-without-lambda</module>
+    <module>return-data-from-thread</module>
   </modules>
 
 </project>
