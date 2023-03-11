@@ -9,8 +9,10 @@
   <version>1.0.0-SNAPSHOT</version>
 
   <packaging>pom</packaging>
+
   <modules>
-    <module>simple-thread-example</module>
+    <module>simple-thread-example-with-lambda</module>
+    <module>simple-thread-example-without-lambda</module>
   </modules>
 
 </project>

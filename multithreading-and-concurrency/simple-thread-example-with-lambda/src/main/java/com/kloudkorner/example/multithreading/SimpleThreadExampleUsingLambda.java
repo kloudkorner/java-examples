@@ -1,6 +1,6 @@
 package com.kloudkorner.example.multithreading;
 
-public class SimpleThreadExample
+public class SimpleThreadExampleUsingLambda
 {
   public static void printHelloUsingThread()
   {
